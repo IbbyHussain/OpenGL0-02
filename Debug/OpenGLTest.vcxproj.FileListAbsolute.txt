@@ -1,1 +1,2 @@
 C:\UNI\3DGraphics\OpenGLTest\Debug\OpenGLTest.exe
+C:\UNI\3DGraphics\OpenGl-Workshops\OpenGL0-02\Debug\OpenGLTest.exe
